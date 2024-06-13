@@ -1,0 +1,36 @@
+* Create necessary models that corresponds to database tables
+
+* Add connection string as configuration in appsettings.json file:
+
+"ConnectionStrings": {
+	"DefaultConnection": "Server=(localdb)\\MSSQLLocalDB;Database=Bulky;Trusted_Connection=True;TrustServerCertificate=True"
+}
+
+* Install the packages required to work with Entity Framework Core:
+
+- Microsoft.EntityFrameworkCore
+- Microsoft.EntityFrameworkCore.SqlServer
+- Microsoft.EntityFrameworkCore.Tools
+
+* Create a db context class, that inherits from DbContext base class, with a constructor requiring options parameter of data store and connection string and db sets with model classes that corresponds to database tables:
+
+public class ApplicationDbContext : DbContext
+{
+    public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
+    {
+    }
+
+    public DbSet<Category> Categories { get; set; }
+}
+
+* Register the db context class as service:
+
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+});
+
+* Run necessary migration and database update commands:
+
+- add-migration [migration_name]
+- update-database
