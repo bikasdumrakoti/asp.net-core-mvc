@@ -1,0 +1,36 @@
+D:\aspnetcoremvc\Section 5 Repository Pattern\Bulky\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.deps.json
+D:\aspnetcoremvc\Section 5 Repository Pattern\Bulky\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.dll
+D:\aspnetcoremvc\Section 5 Repository Pattern\Bulky\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.pdb
+D:\aspnetcoremvc\Section 5 Repository Pattern\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspnetcoremvc\Section 5 Repository Pattern\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfoInputs.cache
+D:\aspnetcoremvc\Section 5 Repository Pattern\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfo.cs
+D:\aspnetcoremvc\Section 5 Repository Pattern\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+D:\aspnetcoremvc\Section 5 Repository Pattern\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.sourcelink.json
+D:\aspnetcoremvc\Section 5 Repository Pattern\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.dll
+D:\aspnetcoremvc\Section 5 Repository Pattern\Bulky\Bulky.Utility\obj\Debug\net8.0\refint\BulkyBook.Utility.dll
+D:\aspnetcoremvc\Section 5 Repository Pattern\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.pdb
+D:\aspnetcoremvc\Section 5 Repository Pattern\Bulky\Bulky.Utility\obj\Debug\net8.0\ref\BulkyBook.Utility.dll
+D:\aspnetcoremvc\Section 6 Product CRUD\Bulky\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.deps.json
+D:\aspnetcoremvc\Section 6 Product CRUD\Bulky\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.dll
+D:\aspnetcoremvc\Section 6 Product CRUD\Bulky\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.pdb
+D:\aspnetcoremvc\Section 6 Product CRUD\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspnetcoremvc\Section 6 Product CRUD\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfoInputs.cache
+D:\aspnetcoremvc\Section 6 Product CRUD\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfo.cs
+D:\aspnetcoremvc\Section 6 Product CRUD\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+D:\aspnetcoremvc\Section 6 Product CRUD\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.sourcelink.json
+D:\aspnetcoremvc\Section 6 Product CRUD\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.dll
+D:\aspnetcoremvc\Section 6 Product CRUD\Bulky\Bulky.Utility\obj\Debug\net8.0\refint\BulkyBook.Utility.dll
+D:\aspnetcoremvc\Section 6 Product CRUD\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.pdb
+D:\aspnetcoremvc\Section 6 Product CRUD\Bulky\Bulky.Utility\obj\Debug\net8.0\ref\BulkyBook.Utility.dll
+D:\aspnetcoremvc\Section 7 Home and Details Page\Bulky\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.deps.json
+D:\aspnetcoremvc\Section 7 Home and Details Page\Bulky\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.dll
+D:\aspnetcoremvc\Section 7 Home and Details Page\Bulky\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.pdb
+D:\aspnetcoremvc\Section 7 Home and Details Page\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspnetcoremvc\Section 7 Home and Details Page\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfoInputs.cache
+D:\aspnetcoremvc\Section 7 Home and Details Page\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfo.cs
+D:\aspnetcoremvc\Section 7 Home and Details Page\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+D:\aspnetcoremvc\Section 7 Home and Details Page\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.sourcelink.json
+D:\aspnetcoremvc\Section 7 Home and Details Page\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.dll
+D:\aspnetcoremvc\Section 7 Home and Details Page\Bulky\Bulky.Utility\obj\Debug\net8.0\refint\BulkyBook.Utility.dll
+D:\aspnetcoremvc\Section 7 Home and Details Page\Bulky\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.pdb
+D:\aspnetcoremvc\Section 7 Home and Details Page\Bulky\Bulky.Utility\obj\Debug\net8.0\ref\BulkyBook.Utility.dll
