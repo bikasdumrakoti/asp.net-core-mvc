@@ -1,0 +1,48 @@
+D:\aspnetcoremvc\Section 5 Repository Pattern\Bulky\Bulky.Models\bin\Debug\net8.0\BulkyBook.Models.deps.json
+D:\aspnetcoremvc\Section 5 Repository Pattern\Bulky\Bulky.Models\bin\Debug\net8.0\BulkyBook.Models.dll
+D:\aspnetcoremvc\Section 5 Repository Pattern\Bulky\Bulky.Models\bin\Debug\net8.0\BulkyBook.Models.pdb
+D:\aspnetcoremvc\Section 5 Repository Pattern\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspnetcoremvc\Section 5 Repository Pattern\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.AssemblyInfoInputs.cache
+D:\aspnetcoremvc\Section 5 Repository Pattern\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.AssemblyInfo.cs
+D:\aspnetcoremvc\Section 5 Repository Pattern\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.csproj.CoreCompileInputs.cache
+D:\aspnetcoremvc\Section 5 Repository Pattern\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.sourcelink.json
+D:\aspnetcoremvc\Section 5 Repository Pattern\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.dll
+D:\aspnetcoremvc\Section 5 Repository Pattern\Bulky\Bulky.Models\obj\Debug\net8.0\refint\BulkyBook.Models.dll
+D:\aspnetcoremvc\Section 5 Repository Pattern\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.pdb
+D:\aspnetcoremvc\Section 5 Repository Pattern\Bulky\Bulky.Models\obj\Debug\net8.0\ref\BulkyBook.Models.dll
+D:\aspnetcoremvc\Section 6 Product CRUD\Bulky\Bulky.Models\bin\Debug\net8.0\BulkyBook.Models.deps.json
+D:\aspnetcoremvc\Section 6 Product CRUD\Bulky\Bulky.Models\bin\Debug\net8.0\BulkyBook.Models.dll
+D:\aspnetcoremvc\Section 6 Product CRUD\Bulky\Bulky.Models\bin\Debug\net8.0\BulkyBook.Models.pdb
+D:\aspnetcoremvc\Section 6 Product CRUD\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspnetcoremvc\Section 6 Product CRUD\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.AssemblyInfoInputs.cache
+D:\aspnetcoremvc\Section 6 Product CRUD\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.AssemblyInfo.cs
+D:\aspnetcoremvc\Section 6 Product CRUD\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.csproj.CoreCompileInputs.cache
+D:\aspnetcoremvc\Section 6 Product CRUD\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.sourcelink.json
+D:\aspnetcoremvc\Section 6 Product CRUD\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.dll
+D:\aspnetcoremvc\Section 6 Product CRUD\Bulky\Bulky.Models\obj\Debug\net8.0\refint\BulkyBook.Models.dll
+D:\aspnetcoremvc\Section 6 Product CRUD\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.pdb
+D:\aspnetcoremvc\Section 6 Product CRUD\Bulky\Bulky.Models\obj\Debug\net8.0\ref\BulkyBook.Models.dll
+D:\aspnetcoremvc\Section 7 Home and Details Page\Bulky\Bulky.Models\bin\Debug\net8.0\BulkyBook.Models.deps.json
+D:\aspnetcoremvc\Section 7 Home and Details Page\Bulky\Bulky.Models\bin\Debug\net8.0\BulkyBook.Models.dll
+D:\aspnetcoremvc\Section 7 Home and Details Page\Bulky\Bulky.Models\bin\Debug\net8.0\BulkyBook.Models.pdb
+D:\aspnetcoremvc\Section 7 Home and Details Page\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspnetcoremvc\Section 7 Home and Details Page\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.AssemblyInfoInputs.cache
+D:\aspnetcoremvc\Section 7 Home and Details Page\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.AssemblyInfo.cs
+D:\aspnetcoremvc\Section 7 Home and Details Page\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.csproj.CoreCompileInputs.cache
+D:\aspnetcoremvc\Section 7 Home and Details Page\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.sourcelink.json
+D:\aspnetcoremvc\Section 7 Home and Details Page\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.dll
+D:\aspnetcoremvc\Section 7 Home and Details Page\Bulky\Bulky.Models\obj\Debug\net8.0\refint\BulkyBook.Models.dll
+D:\aspnetcoremvc\Section 7 Home and Details Page\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.pdb
+D:\aspnetcoremvc\Section 7 Home and Details Page\Bulky\Bulky.Models\obj\Debug\net8.0\ref\BulkyBook.Models.dll
+D:\aspnetcoremvc\Section 8 Identity in .NET Core\Bulky\Bulky.Models\bin\Debug\net8.0\BulkyBook.Models.deps.json
+D:\aspnetcoremvc\Section 8 Identity in .NET Core\Bulky\Bulky.Models\bin\Debug\net8.0\BulkyBook.Models.dll
+D:\aspnetcoremvc\Section 8 Identity in .NET Core\Bulky\Bulky.Models\bin\Debug\net8.0\BulkyBook.Models.pdb
+D:\aspnetcoremvc\Section 8 Identity in .NET Core\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspnetcoremvc\Section 8 Identity in .NET Core\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.AssemblyInfoInputs.cache
+D:\aspnetcoremvc\Section 8 Identity in .NET Core\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.AssemblyInfo.cs
+D:\aspnetcoremvc\Section 8 Identity in .NET Core\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.csproj.CoreCompileInputs.cache
+D:\aspnetcoremvc\Section 8 Identity in .NET Core\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.sourcelink.json
+D:\aspnetcoremvc\Section 8 Identity in .NET Core\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.dll
+D:\aspnetcoremvc\Section 8 Identity in .NET Core\Bulky\Bulky.Models\obj\Debug\net8.0\refint\BulkyBook.Models.dll
+D:\aspnetcoremvc\Section 8 Identity in .NET Core\Bulky\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.pdb
+D:\aspnetcoremvc\Section 8 Identity in .NET Core\Bulky\Bulky.Models\obj\Debug\net8.0\ref\BulkyBook.Models.dll

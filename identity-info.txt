@@ -1,0 +1,11 @@
+* Install the packages required to work with Asp.Net Core Identity:
+
+- Microsoft.AspNetCore.Identity.EntityFrameworkCore
+
+* Inherit the ApplicationDbContext class from the IdentityDbContext class
+
+* Register Identity in the startup class
+
+- builder.Services.AddIdentity<IdentityUser, IdentityRole>().AddEntityFrameworkStores<ApplicationDbContext>().AddDefaultTokenProviders();
+
+* Execute migration and database update command to add all default identity tables
