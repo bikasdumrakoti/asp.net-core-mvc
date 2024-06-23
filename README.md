@@ -1,1 +1,2 @@
-"# aspnetcoremvc" 
+The subsequent sections in this repository cover all the concepts taught by Mr. Bhrugen Patel in his Udemy course ".NET Core MVC - The Complete Guide 2024 [E-commerce] [.NET8]". The final product is a bookstore web application. Clone the repository and execute the application. The DbInitializer should do the rest. If not, check the connection string in appsettings.json.
+The course is beginner-friendly. Intermediate or experienced .NET developers may find it lacking in various aspects. Although n-tier architecture is followed for application development, business logic is handled by the controllers themselves without a clear separation of concern. Some of the features may be prone to bugs as well. Will come back to it later.
