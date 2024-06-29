@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\aspnetcoremvc\\Section 16 Multiple Product Image\\Bulky\\Bulky.Models\\BulkyBook.Models.csproj": {}
+    "D:\\asp.net-core-mvc\\Section 16 Multiple Product Image\\Bulky\\Bulky.Models\\BulkyBook.Models.csproj": {}
   },
   "projects": {
-    "D:\\aspnetcoremvc\\Section 16 Multiple Product Image\\Bulky\\Bulky.Models\\BulkyBook.Models.csproj": {
+    "D:\\asp.net-core-mvc\\Section 16 Multiple Product Image\\Bulky\\Bulky.Models\\BulkyBook.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\aspnetcoremvc\\Section 16 Multiple Product Image\\Bulky\\Bulky.Models\\BulkyBook.Models.csproj",
+        "projectUniqueName": "D:\\asp.net-core-mvc\\Section 16 Multiple Product Image\\Bulky\\Bulky.Models\\BulkyBook.Models.csproj",
         "projectName": "BulkyBook.Models",
-        "projectPath": "D:\\aspnetcoremvc\\Section 16 Multiple Product Image\\Bulky\\Bulky.Models\\BulkyBook.Models.csproj",
+        "projectPath": "D:\\asp.net-core-mvc\\Section 16 Multiple Product Image\\Bulky\\Bulky.Models\\BulkyBook.Models.csproj",
         "packagesPath": "C:\\Users\\Bikash Dumrakoti\\.nuget\\packages\\",
-        "outputPath": "D:\\aspnetcoremvc\\Section 16 Multiple Product Image\\Bulky\\Bulky.Models\\obj\\",
+        "outputPath": "D:\\asp.net-core-mvc\\Section 16 Multiple Product Image\\Bulky\\Bulky.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bikash Dumrakoti\\AppData\\Roaming\\NuGet\\NuGet.Config",

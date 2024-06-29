@@ -4559,11 +4559,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\aspnetcoremvc\\Section 16 Multiple Product Image\\Bulky\\Bulky.DataAccess\\BulkyBook.DataAccess.csproj",
+      "projectUniqueName": "D:\\asp.net-core-mvc\\Section 16 Multiple Product Image\\Bulky\\Bulky.DataAccess\\BulkyBook.DataAccess.csproj",
       "projectName": "BulkyBook.DataAccess",
-      "projectPath": "D:\\aspnetcoremvc\\Section 16 Multiple Product Image\\Bulky\\Bulky.DataAccess\\BulkyBook.DataAccess.csproj",
+      "projectPath": "D:\\asp.net-core-mvc\\Section 16 Multiple Product Image\\Bulky\\Bulky.DataAccess\\BulkyBook.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Bikash Dumrakoti\\.nuget\\packages\\",
-      "outputPath": "D:\\aspnetcoremvc\\Section 16 Multiple Product Image\\Bulky\\Bulky.DataAccess\\obj\\",
+      "outputPath": "D:\\asp.net-core-mvc\\Section 16 Multiple Product Image\\Bulky\\Bulky.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bikash Dumrakoti\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4581,11 +4581,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\aspnetcoremvc\\Section 16 Multiple Product Image\\Bulky\\Bulky.Models\\BulkyBook.Models.csproj": {
-              "projectPath": "D:\\aspnetcoremvc\\Section 16 Multiple Product Image\\Bulky\\Bulky.Models\\BulkyBook.Models.csproj"
+            "D:\\asp.net-core-mvc\\Section 16 Multiple Product Image\\Bulky\\Bulky.Models\\BulkyBook.Models.csproj": {
+              "projectPath": "D:\\asp.net-core-mvc\\Section 16 Multiple Product Image\\Bulky\\Bulky.Models\\BulkyBook.Models.csproj"
             },
-            "D:\\aspnetcoremvc\\Section 16 Multiple Product Image\\Bulky\\Bulky.Utility\\BulkyBook.Utility.csproj": {
-              "projectPath": "D:\\aspnetcoremvc\\Section 16 Multiple Product Image\\Bulky\\Bulky.Utility\\BulkyBook.Utility.csproj"
+            "D:\\asp.net-core-mvc\\Section 16 Multiple Product Image\\Bulky\\Bulky.Utility\\BulkyBook.Utility.csproj": {
+              "projectPath": "D:\\asp.net-core-mvc\\Section 16 Multiple Product Image\\Bulky\\Bulky.Utility\\BulkyBook.Utility.csproj"
             }
           }
         }

@@ -801,11 +801,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\aspnetcoremvc\\Section 16 Multiple Product Image\\Bulky\\Bulky.Utility\\BulkyBook.Utility.csproj",
+      "projectUniqueName": "D:\\asp.net-core-mvc\\Section 16 Multiple Product Image\\Bulky\\Bulky.Utility\\BulkyBook.Utility.csproj",
       "projectName": "BulkyBook.Utility",
-      "projectPath": "D:\\aspnetcoremvc\\Section 16 Multiple Product Image\\Bulky\\Bulky.Utility\\BulkyBook.Utility.csproj",
+      "projectPath": "D:\\asp.net-core-mvc\\Section 16 Multiple Product Image\\Bulky\\Bulky.Utility\\BulkyBook.Utility.csproj",
       "packagesPath": "C:\\Users\\Bikash Dumrakoti\\.nuget\\packages\\",
-      "outputPath": "D:\\aspnetcoremvc\\Section 16 Multiple Product Image\\Bulky\\Bulky.Utility\\obj\\",
+      "outputPath": "D:\\asp.net-core-mvc\\Section 16 Multiple Product Image\\Bulky\\Bulky.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bikash Dumrakoti\\AppData\\Roaming\\NuGet\\NuGet.Config",

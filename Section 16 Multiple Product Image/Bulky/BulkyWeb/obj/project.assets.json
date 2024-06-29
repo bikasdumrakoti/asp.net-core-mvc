@@ -8705,11 +8705,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\aspnetcoremvc\\Section 16 Multiple Product Image\\Bulky\\BulkyWeb\\BulkyBookWeb.csproj",
+      "projectUniqueName": "D:\\asp.net-core-mvc\\Section 16 Multiple Product Image\\Bulky\\BulkyWeb\\BulkyBookWeb.csproj",
       "projectName": "BulkyBookWeb",
-      "projectPath": "D:\\aspnetcoremvc\\Section 16 Multiple Product Image\\Bulky\\BulkyWeb\\BulkyBookWeb.csproj",
+      "projectPath": "D:\\asp.net-core-mvc\\Section 16 Multiple Product Image\\Bulky\\BulkyWeb\\BulkyBookWeb.csproj",
       "packagesPath": "C:\\Users\\Bikash Dumrakoti\\.nuget\\packages\\",
-      "outputPath": "D:\\aspnetcoremvc\\Section 16 Multiple Product Image\\Bulky\\BulkyWeb\\obj\\",
+      "outputPath": "D:\\asp.net-core-mvc\\Section 16 Multiple Product Image\\Bulky\\BulkyWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bikash Dumrakoti\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8727,8 +8727,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\aspnetcoremvc\\Section 16 Multiple Product Image\\Bulky\\Bulky.DataAccess\\BulkyBook.DataAccess.csproj": {
-              "projectPath": "D:\\aspnetcoremvc\\Section 16 Multiple Product Image\\Bulky\\Bulky.DataAccess\\BulkyBook.DataAccess.csproj"
+            "D:\\asp.net-core-mvc\\Section 16 Multiple Product Image\\Bulky\\Bulky.DataAccess\\BulkyBook.DataAccess.csproj": {
+              "projectPath": "D:\\asp.net-core-mvc\\Section 16 Multiple Product Image\\Bulky\\Bulky.DataAccess\\BulkyBook.DataAccess.csproj"
             }
           }
         }
